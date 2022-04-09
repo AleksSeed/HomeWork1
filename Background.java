@@ -12,7 +12,4 @@ public class Background extends GameCanvas {
         Color color = new Color((int) (Math.random() * 255), (int) (Math.random() * 255), (int) (Math.random() * 255));
         canvas.setBackground(color);
         }
-
-
 }
-
